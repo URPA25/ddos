@@ -1,13 +1,3 @@
-# author:
-# █ ▄▀█ █▀▄▀█ ▀█▀ █▀█ █▀█ █▀ ▀█▀
-# █ █▀█ █░▀░█ ░█░ █▄█ ▀▀█ ▄█ ░█░
-# name:
-# UDP-▀█▀ █▀█ █▀█ █▀ ▀█▀ █▀▀ █▀█
-#    ░█░ █▄█ ▀▀█ ▄█ ░█░ ██▄ █▀▄
-# description:
-# A potent UDP flooding tool designed for stress testing network resilience and evaluating security measures.
-# warning: 
-# This is strongly for educational purposes only and for testing your ddos protection, I am not responsible for any damages you have or may cause.
 
 import os
 import random
